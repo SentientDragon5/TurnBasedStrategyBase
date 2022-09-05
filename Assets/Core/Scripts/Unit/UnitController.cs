@@ -1,3 +1,8 @@
+/*
+Copyright SentientDragon5 2022
+No unauthorized Commercial Use.
+sentientdragon5gamedev@gmail.com for inquiries
+*/
 using UnityEngine;
 
 /// <summary>
